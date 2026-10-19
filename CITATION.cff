@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and the archived release."
+title: "whale-beach-edna: code for 'Environmental DNA distinguishes nor'easter from hurricane overwash deposits'"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/USERNAME/whale-beach-edna"
+authors:
+  - family-names: Horton
+    given-names: Annabelle L.
+    affiliation: University of Pennsylvania
+  - family-names: Yap
+    given-names: Wenshu
+  - family-names: Susman
+    given-names: Kaia
+  - family-names: Walker
+    given-names: Jennifer S.
+  - family-names: Barber
+    given-names: Donald C.
+  - family-names: Brannon
+    given-names: Lucy
+  - family-names: Weaver
+    given-names: Mackenzie M.
+  - family-names: Larson
+    given-names: Christopher J.
+  - family-names: Apoznanski
+    given-names: Diana K.
+  - family-names: Kim
+    given-names: Hie Lim
+  - family-names: Broccoli
+    given-names: Anthony J.
+  - family-names: Plante
+    given-names: Alain E.
+  - family-names: Seidenstein
+    given-names: Julia L.
+  - family-names: Mann
+    given-names: Michael E.
