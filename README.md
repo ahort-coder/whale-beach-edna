@@ -5,8 +5,6 @@ Code for **"Environmental DNA distinguishes nor'easter from hurricane overwash d
 ASV tables, community statistics and the figures, using four salt-marsh sediment cores
 from Whale Beach, New Jersey.
 
-- Raw reads: NCBI SRA BioProject [PRJNAxxxxxxx]
-- Processed data (ASV tables, phyloseq objects, sediment data, statistical outputs): Zenodo [DOI]
 
 ## Repository layout
 
